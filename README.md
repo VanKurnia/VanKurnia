@@ -1,11 +1,10 @@
 ## Hello, I'm Ivan 👋
 
-<p align="left">
-<a href="https://github.com/VanKurnia">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VanKurnia&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VanKurnia&layout=compact&langs_count=8&theme=github_dark"/>
-</a>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VanKurnia&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VanKurnia&layout=compact&langs_count=8&theme=github_dark"/>
 </p>
+
 
 <!--
 [![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanKurnia&show_icons=true&include_all_commits=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
