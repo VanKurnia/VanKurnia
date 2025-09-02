@@ -1,16 +1,16 @@
 ## Hello, I'm Ivan 👋
 
-💻 Web Developer | PHP (Laravel, CodeIgniter), Python (FastAPI), JavaScript (Node.js) 
-✨ Interested in Web Development, AI Integration, and Scalable Systems  
+- 💻 Web Developer | PHP (Laravel, CodeIgniter), Python (FastAPI), JavaScript (Node.js) 
+- ✨ Interested in Web Development, AI Integration, and Scalable Systems  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="30%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vankurnia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="65%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=johanrza&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+<div align="center" height="180em">
+  <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vankurnia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="33%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=johanrza&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
 ---
 
