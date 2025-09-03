@@ -6,6 +6,16 @@
 
 > ✨ Interested in Web Development, AI Integration, and Scalable Systems
 
+---
+
+<!-- Github Stats -->
+<div align="center">
+  <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VanKurnia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="44%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VanKurnia&layout=compact&langs_count=8&theme=algolia"/>
+</div>
+
+---
+
 <div align='center'>
 
 ### ⚙️ Technologies - Frameworks - Tools
@@ -16,14 +26,6 @@
 <div align='center'>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,php,js,python,git,mysql,docker,"/><br/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp,laravel,codeigniter,nodejs,fastapi,chartjs,livewire,bootstrap,tailwind,"/>
-</div>
-
----
-
-<!-- Github Stats -->
-<div align="center">
-  <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VanKurnia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="44%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VanKurnia&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
 ---
@@ -56,10 +58,10 @@
 
 ### 🌐 Connect with Me
 
-</div>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivankurniawan474)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivankurniawan474@gmail.com)
+
+</div>
 
 <!--
 **VanKurnia/VanKurnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
