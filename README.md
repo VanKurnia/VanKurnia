@@ -3,11 +3,24 @@
 ![Ivan Kurniawan](img/Banner.png)
 
 <div align='center'>
-✨ Interested in Web Development, AI Integration, and Scalable Systems  
+
+> ✨ Interested in Web Development, AI Integration, and Scalable Systems
+
+<div align='center'>
+
+### ⚙️ Technologies - Frameworks - Tools
+
+</div>
+
+</div>
+<div align='center'>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,php,js,python,git,mysql,docker,"/><br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=gcp,laravel,codeigniter,nodejs,fastapi,chartjs,livewire,bootstrap,tailwind,"/>
 </div>
 
 ---
 
+<!-- Github Stats -->
 <div align="center">
   <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VanKurnia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img width="44%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VanKurnia&layout=compact&langs_count=8&theme=algolia"/>
@@ -15,7 +28,11 @@
 
 ---
 
+<div align='center'>
+
 ### 🌟 Highlight Projects
+
+</div>
 
 - [**DermaScan – Skin Disease Diagnosis Web App 🔍**](https://github.com/VanKurnia/DermaScan)  
   AI-based diagnosis system (Vision Transformer ONNX) with Laravel + FastAPI + Midtrans.  
@@ -35,7 +52,11 @@
 
 ---
 
+<div align='center'>
+
 ### 🌐 Connect with Me
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivankurniawan474)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivankurniawan474@gmail.com)
